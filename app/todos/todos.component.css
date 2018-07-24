@@ -1,0 +1,20 @@
+.fa-sticky-note-o{
+    font-size: 25px;
+    padding: 5px;
+    margin-right: 20px;
+}
+
+.bg-success{
+    margin-top:7%;
+    border: 1px solid rgb(208, 208, 208);
+}
+
+.bg-success div{
+    font-size:18px;
+    font-family: 'Patua One', cursive;
+}
+
+.bg-success div:hover{
+    cursor:pointer;
+    background-color:#bedfb1;
+}
